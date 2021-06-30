@@ -406,6 +406,7 @@ header .navbar a:hover {
     color: #fff;
     font-weight: normal;
     font-size: 2rem;
+    line-height: 5rem;
 }
 .footer .credit span{
     color: var(--red);
